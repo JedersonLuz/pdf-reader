@@ -1,0 +1,84 @@
+ 
+Jederson Sousa Luz 
+3 years of experience with machine learning through university research, where
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I developed academic papers on audio processing. In these papers, I developed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+descriptors for urban sounds and also a deep learning architecture for the
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+classification of environmental sound events. 
++55 89 99459-2287 
+jedersonalpha@gmail.com 
+Linkedin 
+GitHub 
+EXPERIENCE 
+JurisfAI, ​Santos - SP - Brazil — ​Intern Data Analyst 
+SINCE 07/2020 - PRESENT 
+A few months working as an intern, developing NLP solutions, and working 
+with API development, Web Scraping and SQL. 
+FORMATION 
+UNIVERSIDADE FEDERAL DO PIAUÍ, ​Picos - PI - Brazil 
+SINCE  03/2017 - PRESENT 
+B.Sc in Information Systems. 
+SKILLS 
+Git 
+Linux 
+Agile / Scrum 
+Python / Java / C / C# / JS 
+AI / ML / DL / NLP  
+Data Wrangling / Data Analysis / Data Science / Data Viz 
+NumPy / Pandas / Matplotlib / Seaborn / Scikit-learn / Scikit-image / Keras 
+Web Scraping / Web Crawling 
+Relational Database / SQL 
+No Relational Database / NoSQL 
+Clean Architecture / Clean Code 
+ 
+ 
+REWARDS 
+Honorable Mention​ Maratona 
+de Programação 2019 
+Brazilian First Phase 
+LANGUAGES 
+Native Portuguese 
+Intermediary English 
+ 
+ 
+COURSES 
+Introduction to TensorFlow for Artificial Intelligence, 
+Machine Learning, and Deep Learning​, ​Coursera 
+07/2020 
+PUBLICATIONS 
+Ensemble of handcrafted and deep features for urban sound 
+classification​, ​Applied Acoustics 
+12/11/2020 

@@ -1,0 +1,38 @@
+Jederson Sousa Luz
+jedersonalpha@gmail.com
+Jederson Sousa Luz é Técnico em Informática pelo Instituto Federal
+do Piauí - IFPI. Bacharelando em Sistemas de Informação pela
+Universidade Federal do Piauí - UFPI. Atualmente participa de
+projetos de pesquisa na área de Visão e Inteligência Computacional.
+Experiência
+Estudante Pesquisador
+jan 2018 - Atual
+Universidade Federal do Piauí, Picos, BR
+Aluna de Iniciação Científica pela Universidade Federal do Piauí (UFPI).
+Desenvolve trabalhos científicos voltados às áreas de Visão e Inteligência
+Computacional aplicadas no contexto de processamento de sinais de áudio em cenários urbanos.
+Estágio em Processamento de Linguagem Natural e Machine Learning
+jul 2020 - fev 2021
+JurisfAI, Santos, BR
+Estagiário na Lawtech JurisfAI, atuando nas áreas de Processamento de Linguagem Natural, Machine Learning, 
+desenvolvimento de APIs e Web
+Scraping, contribuindo para o desenvolvimento de soluções de automação de processos jurídicos da startup.
+Habilidades e especializações
+Processamento De Sinais, Data Science, Artificial Intelligence, Análise De Dados, Tensorflow, Scraping, 
+Processamento De Linguagem Natural, Machine Learning, Scrum, Processamento de Imagens, Visão 
+Computacional
+Formação acadêmica
+Universidade Federal do Piauí
+jan 2017 - jan 2021
+Sistemas de Informação
+IFPI - Instituto Federal do Piauí
+jan 2012 - jan 2016
+Informática, Tecnologia da Informação
+Licenças e certificações
+Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+jul 2020 - Atual
+Coursera
+https://www.coursera.org/account/accomplishments/certificate/49EA7DCQTSPU
+Sites
+https://www.github.com/JedersonLuz
+https://www.linkedin.com/in/jedersonluz

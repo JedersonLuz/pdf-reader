@@ -1,0 +1,138 @@
+JEDERSON SOUSA LUZ
+Bacharelando em Sistemas de Informação pela Universidade Federal do Piauí
+� jedersonalpha@gmail.com
+� +55 89 99459-2287
+� Geminiano, PI, Brasil
+� https://github.com/JedersonLuz
+� https://www.linkedin.com/in/jedersonluz/
+PROCURANDO POR
+” Trabalhar em uma organização onde
+eu possa agregar desenvolvendo
+solução com Inteligência Artificial e
+Algoritmos de Machine Learning,
+aplicados ao processamento de
+imagens, áudios e/ou texto. Busco um
+ambiente onde eu possa aperfeiçoar
+minhas habilidades técnicas e
+profissionais e crescer junto da
+organização.”
+HABILIDADES
+TÉCNICAS
+• Experiência em versionamento de código com
+Git.
+• Experiência com ambientes Linux.
+• Experiência em metodologias agéis como
+Scrum.
+• Desenvolvimento Python, Java, C e C#.
+• Conhecimentos sobre Machine Learning, Deep
+Learning, Processamento de Áudio, Visão
+Computacional, Processamento de Imagens e
+Processamento de Linguagem Natural.
+• Experiência com a utilização das bibliotecas
+Numpy, Pandas, Matplotlib, Seaborn,
+Scikit-learn, Scikit-image, Keras e SpaCy.
+• Experiência com Bancos de Dados SQL e
+NoSQL, como Postgres e Firebase Real-Time
+Database.
+• Experiência no desenvolvimento de scripts de
+Web Scraping.
+IDIOMAS
+• Português Nativo.
+• Inglês Intermediário.
+EDUCAÇÃO
+Bacharelado em Sistemas de Informação
+Universidade Federal do Piauí - UFPI
+� 2017 - Presente
+� Picos, PI, Brasil
+Médio/Técnico em Informática
+Instituto Federal do Piauí - IFPI
+� 2012 - 2017
+� Picos, PI, Brasil
+EXPERIÊNCIA PROFISSIONAL
+Pesquisador em Visão e Inteligência Computacional
+Universidade Federal do Piauí - UFPI
+� 2018 - Presente
+� Picos, PI, Brasil
+Durante o período de Iniciação Científica Voluntária (ICV), desenvolvi
+projetos na área de Visão e Inteligência Computacional com enfase no
+processamento de sinais de áudio, como:
+• Desenvolvimento de um descritor de áudio tradicional (handcrafted), para a
+descriminação compacta e eficiente de sons urbanos.
+• Desenvolvimento de uma nova arquitetura de CNN baseada na LeNet, para a
+obtenção de um descritor mais robusto para a descriminação dos sons
+urbanos.
+• Classificação de sons urbanos com classificadores clássicos como Random
+Forest e SVM, utilizando os atributos extraídos com os descritores acima
+citados. Além da classificação individual também foi feita a classificação com
+os atributos de ambos os descritores concatenados.
+Estagiário em Processamento de Linguagem Natural e
+Machine Learning
+Lawtech JurisfAI
+� Jul 2020 - Fev 2021
+� Santos, SP, Brasil (Remoto)
+Durante o programa de estágio, realizei inúmeras atividades
+relacionadas a automação e processamento de processos jurídicos,
+como:
+• Desenvolvimento de um modelo NER (Named-Entity Recognition) com a
+biblioteca SpaCy, para a classificação de entidades nomeadas dentro de
+textos jurídicos, como os nomes das partes descritas no processo, os valores
+atribuídos a causa processual e o tipo de processo.
+• Desenvolvimento de Datasets para utilização no modelo NER, por meio da
+ferramenta de anotação chamada Universal Data Tool (UDT).
+• Desenvolvimento de scripts de web scraping para a mineração de dados de
+páginas de tribunais para a construção de uma base de dados de ementas
+jurídicas, bem como também para a coleta de textos de leis. Para isso foram
+utilizados as bibliotecas requests do Python, BeautifulSoup, e selenium. Um
+desses scripts foi usado como desafio para ingresso na empresa e pode ser
+encontrado publicamente em meu GitHub.
+• Desenvolvimento de uma base de dados SQL com Postgres para o
+armazenamento de textos jurídicos.
+• Experiência na indexação de uma base de dados com a ferramenta Sonic,
+visando a otimização nas buscas por informações armazenadas na base. Esta
+ferramenta é escrita em Rust, buscando o máximo de performance que pode
+ser alcançada por uma linguagem de baixo nível. Para a comunicação com o
+servidor de indexação foi utilizada uma biblioteca Python, onde dessa forma
+pude juntar a performance do Rust na indexação com a facilidade de se
+consultar os dados por meio da API escrita em Python.
+• Desenvolvimento de uma API para o fornecimento de informações de um
+banco de dados SQL, onde esta API foi desenvolvida utilizando a biblioteca
+FastAPI do Python.
+• Experiência com a classificação de jurisprudências de acordo com as áreas do
+direito, onde auxiliei uma colega do estágio testando algumas abordagens
+para descriminar os textos em atributos, como CountVectorizer e TF-IDF.
+Para classificação testei classificadores clássicos como Random Forest e
+SVM, onde para este último foram testados todos os seus kernels diferentes
+afim de verificar qual teria o melhor desempenho.
+CERTIFICAÇÕES
+• Concluiu o curso "Introduction to TensorFlow for Artificial Intelligence,
+Machine Learning, and Deep Learning", na Coursera - Jul 2020.
+• Concluiu a aceleração "AceleraDev Data Science", na Codenation - Jul 2020.
+PUBLICAÇÕES CIENTÍFICAS
+Ensemble of handcrafted and deep features for urban
+sound classification
+Applied Acoustics
+� Dez 2020
+Neste trabalho, foi proposto um modelo CNN compacto com poucos
+parâmetros para extrair características profundos que foram
+combinados com características físicas extraídos diretamente de sinais
+de áudio. Onde também foi feita uma seleção de características para
+reduzir a dimensionalidade dos descritores e investigar características
+físicas que enriquecem as características profundas para discriminar
+melhor entre os sons urbanos. Foram utilizadas bibliotecas Python para
+a realização deste trabalho, como TensorFlow para desenvolver a CNN
+e a LibRosa para a extração das características físicas dos áudios.
+Este paper pode ser encontrado no seguinte link.
+Processamento e Análise de Sinais Acústicos em Cenários
+Urbanos com ConvNets: Teoria e Prática
+ENUCOMPI - Encontro Unificado de Computação do Piauí
+� Nov 2019
+Este capítulo de livro tem por objetivo introduzir os fundamentos
+básicos de processamento de áudio e a aplicação das CNNs para
+aprendizagem de características de áudio. Apresentado um tutorial de
+processamento dos sinais acústicos, seguido do treinamento e
+utilização de CNN na classificação de de eventos sonoros urbanos
+extraídos da cidade de Nova York.
+Os códigos desenvolvidos neste trabalho foram organizado e
+publicados em um repo do GitHub.
+Este capítulo de livro pode ser encontrado no seguinte link, Sendo o
+capítulo 4, página 64.
